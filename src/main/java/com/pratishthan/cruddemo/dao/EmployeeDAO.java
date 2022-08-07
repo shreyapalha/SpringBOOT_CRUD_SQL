@@ -13,5 +13,7 @@ public interface EmployeeDAO {
 	public void save(Employee employee);
 	
 	public void deleteById(int id);
+	
+	public void showNameById(int id);
 
 }
