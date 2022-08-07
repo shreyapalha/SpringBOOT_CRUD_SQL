@@ -14,6 +14,6 @@ public interface EmployeeDAO {
 	
 	public void deleteById(int id);
 	
-	public void showNameById(int id);
+//	public void showNameById(int id);
 
 }

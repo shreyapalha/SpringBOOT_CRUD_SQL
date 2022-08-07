@@ -76,10 +76,10 @@ public class EmployeeDAOHibernateImpl implements EmployeeDAO {
 		query.executeUpdate();
 	}
 
-	@Override
-	public void showNameById(int id) {
-		// TODO Auto-generated method stub
-		
-	}
+//	@Override
+//	public void showNameById(int id) {
+//		// TODO Auto-generated method stub
+//		
+//	}
 
 }
